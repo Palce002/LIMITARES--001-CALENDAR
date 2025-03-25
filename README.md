@@ -2,42 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2025 Calendar</title>
+    
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-color: #ffe6f2;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        .month {
-            margin-bottom: 30px;
-            border: 2px solid #ff99cc;
-            border-radius: 10px;
-            background: #ffccdd;
-            padding: 10px;
-        }
-        .month-name {
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-            color: #d63384;
-            margin-bottom: 10px;
-        }
-        .table th {
-            background: #ff99cc;
-            color: white;
-        }
-        .table th, .table td {
-            text-align: center;
-            padding: 10px;
-            border-color: #ff66b2;
+
         }
     </style>
 </head>
