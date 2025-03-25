@@ -4,8 +4,7 @@
 <head>
     
     
-        }
-    </style>
+        
 </head>
 <body>
 
